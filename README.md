@@ -5,14 +5,12 @@
 <p align="center">
 <a href="https://github.com/mubashirnouman111"><img src="https://readme-typing-svg.herokuapp.com?lines=React+JS+Developer;UI+UX+Designer&center=true&width=500&height=50"></a>
 	
- ## Bootcamp alert
-- [MLSA Job Hunting Bootcamp](https://github.com/saadfareed/MLSA-Job-Hunting-bootcamp) will started soon.
-<img align="right" alt="" src="fresh.jpg" width="270" />
+
 	
 ## My Python Development Course 
 - [Python Backend Show with Saad Fareed](https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw)
 
-### I'm a Python Developer, Teacher and Researcher!
+### I'm a ReactJs Developer, Teacher, and UI/UX Designer!
 - 🔭 I’m currently working as Backend Engineer @Turingcom.
 - 🌱 I’m currently expanding my knowledge in DevOps.
 - 👯 I’m looking to collaborate with other content creators and developers.
@@ -82,7 +80,7 @@
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/saad-fareed/"><img src="https://img.shields.io/badge/-Saad%20Fareed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mubashar-nouman/"><img src="https://img.shields.io/badge/-Mubashar%20Nouman-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:saadfareed632@gmail.com"><img src="https://img.shields.io/badge/-saadfareed@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/saadfareed_sadi/"><img src="https://img.shields.io/badge/-@saadfareed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://leetcode.com/Saadfareed/"><img src="https://img.shields.io/badge/-/saadfareed-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
@@ -106,11 +104,11 @@
  </h2>
 
 <p align="center">
-<a href="https://github.com/saadfareed">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saadfareed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saadfareed&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/mubashirnouman111">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mubashirnouman111&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mubashirnouman111&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadfareed&show_icons=true&locale=en&layout=demo&theme=algolia" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mubashirnouman111&show_icons=true&locale=en&layout=demo&theme=algolia" />
 </p>
 </p>
 <br>
@@ -127,23 +125,23 @@
 
 ## 🚀Github Metrics
 <p align="center">
-	<img width="625em" src="https://github.com/saadfareed/saadfareed/blob/main/github-metrics.svg" />
+	<img width="625em" src="https://github.com/mubashirnouman111/mubashirnouman111/blob/main/github-metrics.svg" />
 </p>
 <br>
 
 ## 🐛Github Magic Game
 <p align="center">
-  <img src="https://github.com/saadfareed/saadfareed/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/mubashirnouman111/mubashirnouman111/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 <br>
 <h2 >🏆 GitHub Profile Trophy</h2>
 <p>
-<a href="https://github.com/saadfareed">
-  <img src="https://github-profile-trophy.vercel.app/?username=saadfareed&theme=matrix&column=8&margin-w=15&margin-h=15"/>
+<a href="https://github.com/mubashirnouman111">
+  <img src="https://github-profile-trophy.vercel.app/?username=mubashirnouman111&theme=matrix&column=8&margin-w=15&margin-h=15"/>
 
 </a>
 </p>
 <p align="center"> 
   Views<br>
-  <img src="https://profile-counter.glitch.me/saadfareed/count.svg" />
+  <img src="https://profile-counter.glitch.me/mubashirnouman111/count.svg" />
 </p>
