@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Mubashar Nouman👋<a href="#"></h1>
   </div>
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=3500&pause=500&color=F70000&background=FF9E7701&center=true&vCenter=true&width=435&lines=React+Js+Developer;UI%2FUX+Designer)](https://git.io/typing-svg)
+<a href="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=3500&pause=500&color=F70000&background=FF9E7701&center=true&vCenter=true&width=435&lines=React+Js+Developer;UI%2FUX+Designer"></a>
 	
 
 	
