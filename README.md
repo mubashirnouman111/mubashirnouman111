@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Mubashar Nouman👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/mubashirnouman111"><img src="https://readme-typing-svg.herokuapp.com?lines=React+JS+Developer;UI+UX+Designer&center=true&width=500&height=50"></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=3500&pause=500&color=F70000&background=FF9E7701&center=true&vCenter=true&width=435&lines=React+Js+Developer;UI%2FUX+Designer)](https://git.io/typing-svg)
 	
 
 	
@@ -50,7 +50,7 @@
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
     </td>
      <td align='center'>
-        <img src="https://w7.pngwing.com/pngs/242/637/png-transparent-figma-3d-icon-thumbnail.png">
+        <img src="">
     </td>
 </tr>
  
