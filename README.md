@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Mubashar Nouman👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/mubashirnouman111"><img src="https://readme-typing-svg.herokuapp.com?lines=React+JS+Developer;UI+UX+Designer&font=Roboto&size=24&duration=3500&pause=500&center=true&width=500&height=50&color=F70000"></a>
+<a href="https://github.com/mubashirnouman111"><img src="https://readme-typing-svg.herokuapp.com?lines=React+JS+Developer;UI+UX+Designer&font=Roboto&size=24&duration=3500&pause=500&center=true&width=500&height=50&color=9c033a"></a>
 	
 
 	
