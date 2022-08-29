@@ -11,11 +11,9 @@
 - [Python Backend Show with Saad Fareed](https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw)
 
 ### I'm a ReactJs Developer, Teacher, and UI/UX Designer!
-- 🔭 I’m currently working as Backend Engineer @Turingcom.
-- 🌱 I’m currently expanding my knowledge in DevOps.
-- 👯 I’m looking to collaborate with other content creators and developers.
-- 📢 Love to teach and inspire students. Taught over more then 500 students.
-- 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
+- 🔭 I’m currently working as Front-end Developer at AlfAin Technologies(PVT).
+- 🌱 I’m currently expanding my knowledge in Front-end Development.
+- 👯 I’m looking to connect with other content creators and developers.
 - 💎 If you are a Tech boy/girl let's get connected  
  
 <h2>Tech Stack</h2>
@@ -52,7 +50,7 @@
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
     </td>
      <td align='center'>
-        <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
+        <img src="https://dribbble.com/shots/17599145-Figma-logo-redesign">
     </td>
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png">
