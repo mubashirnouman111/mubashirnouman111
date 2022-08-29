@@ -7,8 +7,8 @@
 	
 
 	
-## My Python Development Course 
-- [Python Backend Show with Saad Fareed](https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw)
+## My WordPress Course 
+- [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
 
 ### I'm a ReactJs Developer, Teacher, and UI/UX Designer!
 - 🔭 I’m currently working as Front-end Developer at AlfAin Technologies(PVT).
@@ -50,7 +50,7 @@
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
     </td>
      <td align='center'>
-        <img src="https://howdesignlive.com/wp-content/uploads/2021/03/figma-vector-logo.png" width="100%">
+        <img src="https://howdesignlive.com/wp-content/uploads/2021/03/figma-vector-logo.png">
     </td>
 </tr>
  
@@ -60,9 +60,9 @@
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/mubashar-nouman/"><img src="https://img.shields.io/badge/-Mubashar%20Nouman-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:saadfareed632@gmail.com"><img src="https://img.shields.io/badge/-saadfareed@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/saadfareed_sadi/"><img src="https://img.shields.io/badge/-@saadfareed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://leetcode.com/Saadfareed/"><img src="https://img.shields.io/badge/-/saadfareed-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:mubashirrnouman@gmail.com"><img src="https://img.shields.io/badge/-mubashirrnouman@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/mubashar_nouman/"><img src="https://img.shields.io/badge/-@mubashar_nouman-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/-/mubashirnouman-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
  </p>
  
 <br>
