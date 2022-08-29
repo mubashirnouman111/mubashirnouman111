@@ -50,7 +50,7 @@
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
     </td>
      <td align='center'>
-        <img src="https://howdesignlive.com/wp-content/uploads/2021/03/figma-vector-logo.png" width="100">
+        <img src="https://howdesignlive.com/wp-content/uploads/2021/03/figma-vector-logo.png" width="100%">
     </td>
 </tr>
  
